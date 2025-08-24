@@ -5,6 +5,14 @@ All notable changes to VTS - Voice Typing Studio will be documented in this file
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.9.2](https://github.com/j05u3/release-please-test/compare/v0.9.1...v0.9.2) (2025-08-24)
+
+
+### 🧹 Miscellaneous
+
+* add release configuration and version file ([1cd5698](https://github.com/j05u3/release-please-test/commit/1cd5698c29fba1cac77adff7b2bddd935e4bf092))
+* remove debug output steps from release workflow ([b0b9575](https://github.com/j05u3/release-please-test/commit/b0b957519fd66cd1102870fa43d5f04ffb9c8034))
+
 ## [0.9.1](https://github.com/j05u3/VTS/compare/v0.9.0...v0.9.1) (2025-08-24)
 
 
